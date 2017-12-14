@@ -10,6 +10,9 @@
 
 ---
 
+
+[**What is 10x?**]
+
 [**How It Works**](process.md)
 
 [**Our Projects**](projects.md)
